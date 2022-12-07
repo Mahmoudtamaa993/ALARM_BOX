@@ -1,0 +1,8 @@
+{
+    "apps": [{
+        "name"  : "Twits",
+        "instances": 1,
+        "script": "npm run --prefix /home/pi/Twits start",
+        "restart_delay": 30000
+    }]
+}
